@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Attendapp</string>
+    <string name="title_activity_update_sub">UpdateSub</string>
+    <string name="pos_name">You Have Successfully Came To The Semseter.Enjoy.Keep It Up.</string>
+    <string name="post_name">Like A Boss!</string>
+    <string name="neg_name">You are At The Edge of Attednece limit.Ready To Pay the Condatnation.</string>
+    <string name="negt_name">Aww.....Snap!</string>
+    <string name="_8942">⋮</string>
+</resources>

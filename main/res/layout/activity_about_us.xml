@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context=".AboutUs">
+
+<TextView
+    android:id="@+id/abt_us"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textColor="#000"
+    android:textStyle="bold"
+    android:textSize="21dp"
+    android:text="App Developed by Jntuk-Ucev Students"/>
+    <TextView
+        android:padding="25dp"
+        android:layout_below="@+id/abt_us"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:textSize="21dp"
+        android:text="By G.Chandra Vamsee,P.Suresh"/>
+
+
+</RelativeLayout>
